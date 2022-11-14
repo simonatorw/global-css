@@ -1,0 +1,26 @@
+/* Top text */
+
+.Skin .QuestionText {
+    color: black;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Body text */
+
+.Skin .Matrix .QuestionBody {
+    color: black;
+}
+
+/* Selected radio */
+
+.Skin label.q-radio.q-checked {
+    border: 2px solid green;
+    background: green;
+}
+
+/* Button colors */
+
+.Skin #Buttons #NextButton {
+    background-color: green;
+    color: white;
+}
